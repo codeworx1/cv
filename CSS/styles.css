@@ -1,0 +1,96 @@
+
+Body {margin: 0px; }
+
+h1 {text-align: center;}
+
+p {margin: 0px}
+
+.Menu-div {background-color: #C9CCD5; text-align: center;}
+
+.Master-div {height: 100vh; width: 100vw;}
+
+.top-container {background-color: #C9CCD5; height: 140px; width: 100vw; text-align: center; padding-top: 50px; padding-bottom: 20px; }
+
+.middle-container-1 {background-color: #e690c6d5; height: 75px; width: 906px; text-align: center; Padding-left: 230px; Padding-right: 230px; padding-top: 37.5px;}
+
+.Space-left-side {height: 300px; width: 433px; background-color: #e690c6d5;}
+
+.Space-background {margin-top: 0; margin-right: 0; margin-left: 0; position: relative; bottom: 100px; }
+
+.Space {height: 300px; width: 500px; position: relative; left: 433px; bottom: 200px;}
+
+.Space-right-side {height: 300px; width: 433px; background-color: #e690c6d5;  position: relative; left: 933px;  bottom: 604px;}
+
+.middle-container-2 {background-color: #02a9e6ff; height: 150px; width: 100vw; position: relative; bottom: 604px; margin-top: 0; text-align: center; padding-top: 50px;}
+
+.Star-left-side {height: 350px; width: 433px; background-color: #02a9e6ff; position: relative; bottom: 604px;}
+
+.Star-background {position: relative; left: 433px; bottom: 954px; }
+
+.Star {height: 350px; width: 500px;}
+
+.Star-right-side {height: 350px; width: 433px; background-color: #02a9e6ff;  position: relative; left: 933px; bottom: 1308px;}
+
+.middle-container-3 {background-color: #007abeff; height: 150px; width: 100vw; position: relative; bottom: 1308px; text-align: center; padding-top: 50px;}
+
+.Fireflies-left-side {height: 350px; width: 433px; background-color: #007abeff; position: relative; bottom: 1308px; }
+
+.Fireflies-background {position: relative; left: 433px; bottom: 1658px; }
+
+.Fireflies {height: 350px; width: 500p;}
+
+.Fireflies-right-side {height: 350px; width: 433px; background-color: #007abeff; position: relative; left: 933px; bottom: 2012px;}
+
+.middle-container-4 {background-color: #000000; height: 150px; width: 100vw; position: relative; bottom: 2012px; text-align: center; color: #ffffff; padding-top: 25px; padding-bottom: 25px;}
+
+.Plants-left-side {height: 400px; width: 333px; background-color: #000000; position: relative; bottom: 2012px;}
+
+.Plants-background {position: relative; left: 333px;  bottom: 2412px;}
+
+.Plants {height: 400px; width: 700px;}
+
+.Plants-right-side {height: 400px; width: 333px; background-color: #000000; position: relative; left: 1033px; bottom: 2816px; }
+
+.middle-container-5 {background-color: #ffffff; height: 150px; width: 766px; position: relative; bottom: 2816px; text-align: center; padding-top: 50px; padding-left: 300px; padding-right: 300px;}
+
+.Honeycomb-background {position: relative; left: 550px; bottom: 2816px;}
+
+.Honeycomb {height: 400px; width: 300px;}
+
+.middle-container-6 {background-color: #e219a0ff; height: 150px; width: 100vw; position: relative; bottom: 2800px; text-align: center; padding-top: 50px; padding-bottom: 50px;}
+
+.middle-container-7 {background-color: #e219a0ff; height: 150px; width: 100vw; position: relative; bottom: 2800px; text-align: center; padding-top: 50px;}
+
+.Constellation-left-side {height: 300px; width: 433px; background-color: #e219a0ff; position: relative; bottom: 2800px;}
+
+.Constellation-background {position: relative; left: 433px; bottom: 3100px;}
+
+.Constellation {height: 300px; width: 500px;}
+
+.Constellation-right-side {height: 300px; width: 433px; background-color: #e219a0ff; position: relative; left:933px; bottom: 3404px;}
+
+.middle-container-8 {background-color: #000000; height: 130px; width: 100vw; position: relative; bottom: 3404px; text-align: center; color: #ffffff; padding-top: 50px;}
+
+.Rainbow-left-side {height: 400px; width: 383px; background-color: #000000; position: relative; bottom: 3404px; }
+
+.Rainbow-background {position: relative; left: 383px; position: relative; bottom: 3804px;}
+
+.Rainbow {height: 400px; width: 600px;}
+
+.Rainbow-right-side {height: 400px; width: 383px; background-color: #000000; position: relative; left: 983px; bottom: 4208px;}
+
+.middle-container-9 {background-color: #000000; height: 200px; width: 100vw; position: relative; bottom: 4208px; text-align: center; color: #ffffff; padding-top: 150px;}
+
+.Trophy-left-side {height:350px; width: 458px; background-color: #000000; position: relative; bottom: 4208px;}
+
+.Trophy-background {position: relative; left: 458px; bottom: 4558px;}
+
+.Trophy {height: 350px; width: 450px;}
+
+.Trophy-right-side {height: 350px; width: 458px; background-color: #000000; position: relative; left: 908px; bottom: 4912px;}
+
+.bottom-container {background-color: #000000; height: 200px; width: 100vw; position: relative; bottom: 4912px; text-align: center; padding-top: 100px; color: #ffffff;}
+
+.Tagline {background-color: #000000; height: 150px; width: 100vw; position: relative; bottom: 4912px; text-align: center; color: #ffffff;}
+
+.Skills {text-align: center;font-size: 20px;}
