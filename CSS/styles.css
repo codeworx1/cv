@@ -9,7 +9,7 @@ p {margin: 0px margin-bottom: 0px; margin-top: 0px;}
 
 .Master-div {height: 100vh; width: 100vw;}
 
-.top-container {background-color: #C9CCD5; height: 140px; width: 100vw; text-align: center; padding-top: 50px; padding-bottom: 20px; }
+.top-container {background-color: #C9CCD5; height: 120px; width: 100vw; text-align: center; padding-top: 125px; padding-bottom: 10px; }
 
 
 .middle-container-1 {background-color: #e690c6d5; height: 100px; width: 100vw; text-align: center; Padding-left: 0px; Padding-right: 0px; padding-top: 37.5px;}
@@ -138,3 +138,5 @@ p {margin: 0px margin-bottom: 0px; margin-top: 0px;}
 .List {text-align: center; font-size: 30px;}
 
 .Writing {font-size: 30px;}
+
+.Bottom-menu-div {background-color: #C9CCD5; text-align: center; width: 100vw;}
