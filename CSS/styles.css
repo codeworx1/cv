@@ -1,97 +1,139 @@
 
-Body {margin: 0px; }
+Body {margin: 0px;}
 
-h1 {text-align: center;}
+h1 {text-align: center; padding: 0px; margin: 0px;}
 
-p {margin: 0px}
+p {margin: 0px margin-bottom: 0px; margin-top: 0px;}
 
-.Menu-div {background-color: #C9CCD5; text-align: center;}
+.Menu-div {background-color: #C9CCD5; text-align: center; width: 100vw;}
 
 .Master-div {height: 100vh; width: 100vw;}
 
 .top-container {background-color: #C9CCD5; height: 140px; width: 100vw; text-align: center; padding-top: 50px; padding-bottom: 20px; }
 
-.middle-container-1 {background-color: #e690c6d5; height: 75px; width: 906px; text-align: center; Padding-left: 230px; Padding-right: 230px; padding-top: 37.5px;}
 
-.Space-left-side {height: 300px; width: 433px; background-color: #e690c6d5;}
+.middle-container-1 {background-color: #e690c6d5; height: 100px; width: 100vw; text-align: center; Padding-left: 0px; Padding-right: 0px; padding-top: 37.5px;}
 
-.Space-background {margin-top: 0; margin-right: 0; margin-left: 0; position: relative; bottom: 100px; }
 
-.Space {height: 300px; width: 500px; position: relative; left: 433px; bottom: 200px;}
+.space-container {display: inline-block; margin-bottom: -4px;}
 
-.Space-right-side {height: 300px; width: 433px; background-color: #e690c6d5;  position: relative; left: 933px;  bottom: 604px;}
+.space-div-left { height:300px; width: 30vw; background-color: #e690c6d5; float: left; }
 
-.middle-container-2 {background-color: #02a9e6ff; height: 150px; width: 100vw; position: relative; bottom: 604px; margin-top: 0; text-align: center; padding-top: 50px;}
+.space-div-middle {float: left; height: 6px; width: 40vw;}
 
-.Star-left-side {height: 350px; width: 433px; background-color: #02a9e6ff; position: relative; bottom: 604px;}
+.Space {height: 300px; width: 40vw; display: block;}
 
-.Star-background {position: relative; left: 433px; bottom: 954px; }
+.space-div-right { height:300px; width:30vw; background-color: #e690c6d5; float: right; }
 
-.Star {height: 350px; width: 500px;}
+.under-space-div { height: 35px; width: 100vw; background-color: #e690c6d5;}
 
-.Star-right-side {height: 350px; width: 433px; background-color: #02a9e6ff;  position: relative; left: 933px; bottom: 1308px;}
 
-.middle-container-3 {background-color: #007abeff; height: 150px; width: 100vw; position: relative; bottom: 1308px; text-align: center; padding-top: 50px;}
+.middle-container-2 {background-color: #02a9e6ff; height: 150px; width: 100vw; text-align: center; padding-top: 50px; margin: 0px; }
 
-.Fireflies-left-side {height: 350px; width: 433px; background-color: #007abeff; position: relative; bottom: 1308px; }
 
-.Fireflies-background {position: relative; left: 433px; bottom: 1658px; }
+.star-container {display: inline-block; margin: 0px;}
 
-.Fireflies {height: 350px; width: 500p;}
+.Star-left-side {height: 300px; width: 30vw; background-color: #02a9e6ff; float: left;}
 
-.Fireflies-right-side {height: 350px; width: 433px; background-color: #007abeff; position: relative; left: 933px; bottom: 2012px;}
+.Star-background {height: 300px; width: 40vw;    float: left;}
 
-.middle-container-4 {background-color: #000000; height: 150px; width: 100vw; position: relative; bottom: 2012px; text-align: center; color: #ffffff; padding-top: 25px; padding-bottom: 25px;}
+.Star {height: 300px; width: 40vw;}
 
-.Plants-left-side {height: 400px; width: 333px; background-color: #000000; position: relative; bottom: 2012px;}
+.Star-right-side {height: 300px; width: 30vw; background-color: #02a9e6ff; float: right;}
 
-.Plants-background {position: relative; left: 333px;  bottom: 2412px;}
+.under-star-div {height: 35px; width: 100vw; background-color: #02a9e6ff; clear: both;}
 
-.Plants {height: 400px; width: 700px;}
 
-.Plants-right-side {height: 400px; width: 333px; background-color: #000000; position: relative; left: 1033px; bottom: 2816px; }
 
-.middle-container-5 {background-color: #ffffff; height: 150px; width: 766px; position: relative; bottom: 2816px; text-align: center; padding-top: 50px; padding-left: 300px; padding-right: 300px;}
+.middle-container-3 {background-color: #007abeff; height: 150px; width: 100vw;  padding-top: 35px; text-align: center; margin: 0px; clear: both;}
 
-.Honeycomb-background {position: relative; left: 550px; bottom: 2816px;}
 
-.Honeycomb {height: 400px; width: 300px;}
+.fireflies-container {display: inline-block;}
 
-.middle-container-6 {background-color: #e219a0ff; height: 150px; width: 100vw; position: relative; bottom: 2800px; text-align: center; padding-top: 50px; padding-bottom: 50px;}
+.Fireflies-left-side {height: 350px; width: 30vw; background-color: #007abeff; float: left; }
 
-.middle-container-7 {background-color: #e219a0ff; height: 150px; width: 100vw; position: relative; bottom: 2800px; text-align: center; padding-top: 50px;}
+.Fireflies-background {float: left; height: 350px; width: 40vw;}
 
-.Constellation-left-side {height: 300px; width: 433px; background-color: #e219a0ff; position: relative; bottom: 2800px;}
+.Fireflies {height: 350px; width: 40vw;}
 
-.Constellation-background {position: relative; left: 433px; bottom: 3100px;}
+.Fireflies-right-side {height: 350px; width: 30vw; background-color: #007abeff; float: right;}
 
-.Constellation {height: 300px; width: 500px;}
 
-.Constellation-right-side {height: 300px; width: 433px; background-color: #e219a0ff; position: relative; left:933px; bottom: 3404px;}
+.middle-container-4 {background-color: #000000; height: 150px; width: 100vw; padding-top: 35px; text-align: center; color: #ffffff; clear: both;}
 
-.middle-container-8 {background-color: #000000; height: 130px; width: 100vw; position: relative; bottom: 3404px; text-align: center; color: #ffffff; padding-top: 50px;}
 
-.Rainbow-left-side {height: 400px; width: 383px; background-color: #000000; position: relative; bottom: 3404px; }
+.plants-container {display: inline-block;}
 
-.Rainbow-background {position: relative; left: 383px; position: relative; bottom: 3804px;}
+.Plants-left-side {height: 400px; width: 27vw; background-color: #000000; float: left;}
 
-.Rainbow {height: 400px; width: 600px;}
+.Plants-background {float: left;}
 
-.Rainbow-right-side {height: 400px; width: 383px; background-color: #000000; position: relative; left: 983px; bottom: 4208px;}
+.Plants {height: 400px; width: 46vw;}
 
-.middle-container-9 {background-color: #000000; height: 200px; width: 100vw; position: relative; bottom: 4208px; text-align: center; color: #ffffff; padding-top: 150px;}
+.Plants-right-side {height: 400px; width: 27vw; background-color: #000000; float: right;}
 
-.Trophy-left-side {height:350px; width: 458px; background-color: #000000; position: relative; bottom: 4208px;}
 
-.Trophy-background {position: relative; left: 458px; bottom: 4558px;}
 
-.Trophy {height: 350px; width: 450px;}
+.middle-container-5 {background-color: #ffffff; height: 150px; width: 100vw;  text-align: center; padding-top: 50px; padding-left: 0px; padding-right: 0px;}
 
-.Trophy-right-side {height: 350px; width: 458px; background-color: #000000; position: relative; left: 908px; bottom: 4912px;}
 
-.bottom-container {background-color: #000000; height: 200px; width: 100vw; position: relative; bottom: 4912px; text-align: center; padding-top: 100px; color: #ffffff;}
 
-.Tagline {background-color: #000000; height: 150px; width: 100vw; position: relative; bottom: 4912px; text-align: center; color: #ffffff;}
+.Honeycomb-background {}
+
+.Honeycomb {height: 400px; width: 20vw; display: block; margin-left: auto; margin-right: auto;}
+
+
+
+.middle-container-6 {background-color: #e219a0ff; height: 150px; width: 100vw; text-align: center; padding-top: 50px; padding-bottom: 50px;}
+
+.middle-container-7 {background-color: #e219a0ff; height: 150px; width: 100vw; text-align: center; padding-top: 50px;}
+
+
+.constellation-container {display: inline-block; margin-bottom: -5px;}
+
+.Constellation-left-side {height: 300px; width: 33vw; background-color: #e219a0ff; float: left; padding-bottom: 35px;}
+
+.Constellation-background {float: left; height: 300px; width: 34vw; background-color: #e219a0ff; padding-bottom: 35px;}
+
+.Constellation {height: 300px; width: 34vw; display: block; }
+
+.Constellation-right-side {height: 300px; width: 33vw; background-color: #e219a0ff; float: right; padding-bottom: 35px;}
+
+
+
+.middle-container-8 {background-color: #000000; height: 130px; width: 100vw; text-align: center; color: #ffffff; padding-top: 50px;}
+
+
+.rainbow-container {display: inline-block; margin-bottom: -10px;}
+
+.Rainbow-left-side {height: 400px; width: 28vw; background-color: #000000; float: left;}
+
+.Rainbow-background {float: left;}
+
+.Rainbow {height: 400px; width: 44vw;}
+
+.Rainbow-right-side {height: 400px; width: 28vw; background-color: #000000; float: right;}
+
+
+
+.middle-container-9 {background-color: #000000; height: 200px; width: 100vw; text-align: center; color: #ffffff; padding-top: 150px;}
+
+
+.trophy-container {display: inline-block; margin-bottom: -10px;}
+
+.Trophy-left-side {height:350px; width: 33vw; background-color: #000000; float: left;}
+
+.Trophy-background {float: left;}
+
+.Trophy {height: 350px; width: 34vw;}
+
+.Trophy-right-side {height: 350px; width: 33vw; background-color: #000000; float: right;}
+
+
+.bottom-container {background-color: #000000; height: 200px; width: 100vw; text-align: center; padding-top: 100px; color: #ffffff;}
+
+
+.Tagline {background-color: #000000; height: 150px; width: 100vw; text-align: center; color: #ffffff;}
 
 .List {text-align: center; font-size: 30px;}
 
