@@ -15,7 +15,7 @@ p {margin: 0px margin-bottom: 0px; margin-top: 0px;}
 .middle-container-1 {background-color: #e690c6d5; height: 100px; width: 100vw; text-align: center; Padding-left: 0px; Padding-right: 0px; padding-top: 37.5px;}
 
 
-.space-container {display: inline-block; margin-bottom: -4px;}
+.space-container {display: inline-block; margin-bottom: -4px; clear: both;}
 
 .space-div-left { height:300px; width: 30vw; background-color: #e690c6d5; float: left; }
 
