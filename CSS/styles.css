@@ -23,9 +23,9 @@ p {margin: 0px margin-bottom: 0px; margin-top: 0px;}
 
 .Space {height: 300px; width: 40vw; display: block;}
 
-.space-div-right { height:300px; width:30vw; background-color: #e690c6d5; float: right; }
+.space-div-right { height:300px; width:30vw; background-color: #e690c6d5; float: right; margin-left: -.5px;}
 
-.under-space-div { height: 35px; width: 100vw; background-color: #e690c6d5;}
+.under-space-div { height: 35px; width: 100vw; background-color: #e690c6d5; margin-top: 0px;}
 
 
 .middle-container-2 {background-color: #02a9e6ff; height: 150px; width: 100vw; text-align: center; padding-top: 50px; margin: 0px; }
